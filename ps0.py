@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # this is an example of the solution to MIT OCW problem set 0
 # https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/assignments/I
-# by DNAPython
+# by DNAPython@gmail.com
 
 import numpy as np
 import math
