@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed May  6 23:06:43 2020
-
-@author: DNAPython@gmail.com
-
+# this is an example of the solution to MIT OCW problem set 1a
+# https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/assignments/I
+# by DNAPython@gmail.com
 """
 
 
