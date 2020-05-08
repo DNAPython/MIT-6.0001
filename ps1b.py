@@ -6,7 +6,7 @@ Created on Fri May  8 00:02:43 2020
 
 https://github.com/angelichorsey/mit-eecs/blob/master/course_6_0001/problem-sets/ps1/ps1b.py
 
-got stuck on doing monthly contribution outside the while loop. my ps1a.py solution was far less elegant. 
+got stuck on doing monthly contribution outside the while loop. Also tried to range(x,y,z) solution, that failed. my ps1a.py solution was far less elegant. 
 I enjoy more () for my own sanity. 
 """
 
