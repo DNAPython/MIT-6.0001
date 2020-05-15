@@ -1,5 +1,5 @@
 # Problem Set 2, hangman.py
-# Name: Jasen Wise
+# Name: DNAPyton@gmail.com
 # Collaborators: Jeremiah Flaga (reviewed his code when I got stuck)
 # Time spent:
     # Started:          
